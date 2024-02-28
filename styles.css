@@ -18,3 +18,8 @@ td:nth-child(3){
 .blue{
 	background-color:blue;
 }
+content{
+	text-align:center;
+	align-items:center;
+	justify-content:center;
+}

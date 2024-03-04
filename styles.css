@@ -1,4 +1,9 @@
 /*  your css code here. If applicable */
+body{
+	border:1px solid rgb(0, 0, 0);
+	padding:1px;
+}
+
 td:nth-child(2){
 	text-align:center;
 }

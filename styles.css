@@ -19,9 +19,11 @@ td:nth-child(3){
 }
 .green{
 	background-color:green;
+	height:10px;
 }
 .blue{
 	background-color:blue;
+	height:10px
 }
 content{
 	text-align:center;
